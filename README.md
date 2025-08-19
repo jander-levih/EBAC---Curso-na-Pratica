@@ -33,10 +33,3 @@ The goal is to document the learning journey and serve as a portfolio for future
 - Version control practices with **Git and GitHub**
 
 ---
-
-## 🚀 Como executar / How to run
-
-1. Clone este repositório / Clone this repository:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
