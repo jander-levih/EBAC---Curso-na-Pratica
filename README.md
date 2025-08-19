@@ -30,4 +30,5 @@ Este repositório contém o certificado de participação no **workshop online**
 
 ## 🖼️ Certificado
 
-![Certificado](certificado.png)
+![<img width="3434" height="2481" alt="image" src="https://github.com/user-attachments/assets/e0fa6d66-525b-48de-8a24-8b964806cda7" />]
+
