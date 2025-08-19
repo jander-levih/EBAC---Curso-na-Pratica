@@ -1,35 +1,33 @@
-# 📚 Aulas Práticas – Curso Full Stack Developer (EBAC)
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+# 📜 Certificado de Participação
+
+Este repositório contém o certificado de participação no **workshop online** promovido pela **EBAC Ensino à Distância Ltda**.
+
+## 📌 Detalhes do Certificado
+
+- **Participante:** Jander Levi Rodrigues Costa  
+- **Evento:** Workshop Online - *Desafio IA: Crie seu Projeto em 3 Dias*  
+- **Ministrado por:** Victor Toledo  
+- **Datas:** 14, 15 e 18 de agosto de 2025  
+- **Carga horária:** 4h30min  
+
+## 📑 Informações da Instituição
+
+- **Instituição:** EBAC Ensino à Distância Ltda  
+- **CNPJ:** 37.598.548/0001-95  
+
+## ✍️ Assinatura
+
+- **Responsável:** Carolina Rodrigues de Faria  
+- **Cargo:** Coordenadora de Eventos para Alunos  
+
+---
+
+📎 Código de autenticação: `42220-06551-56472-54250`  
+📅 Data de emissão: **19/08/2025**
 
 ---
 
-## 🇧🇷 Descrição (Português)
+## 🖼️ Certificado
 
-Este repositório reúne as **aulas práticas, exercícios e projetos** desenvolvidos durante o **Curso de Desenvolvedor Full Stack da EBAC**.  
-O objetivo é registrar a evolução dos estudos e servir como portfólio para consulta futura.
-
-### 🔹 Conteúdos abordados
-
-- Estruturação de páginas com **HTML5**
-- Estilização com **CSS3**
-- Lógica de programação em **JavaScript**
-- Práticas de versionamento com **Git e GitHub**
-
----
-
-## 🇺🇸 Description (English)
-
-This repository contains the **practical lessons, exercises, and projects** developed during the **Full Stack Developer Course at EBAC**.  
-The goal is to document the learning journey and serve as a portfolio for future reference.
-
-### 🔹 Topics covered
-
-- Page structure with **HTML5**
-- Styling with **CSS3**
-- Programming logic in **JavaScript**
-- Version control practices with **Git and GitHub**
-
----
+![Certificado](certificado.png)
