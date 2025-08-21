@@ -1,0 +1,49 @@
+/* Fundo em gradiente */
+body {
+    background: linear-gradient(180deg, #4f46e5, #22d3ee);
+    background-attachment: fixed;
+    color: #ffffff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Remove margens e paddings padrões */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+p, h1, h2, h3, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Exemplo de classe para texto grande */
+.texto-imagem {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+/* Centraliza o conteúdo da página */
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* Centraliza verticalmente */
+    align-items: center;       /* Centraliza horizontalmente */
+    text-align: center;        /* Centraliza textos */
+}
+
+/* Fotos lado a lado */
+.fotos {
+    display: flex;             /* Coloca as imagens em linha */
+    gap: 20px;                 /* Espaço entre as imagens */
+    margin-top: 16px;
+}
+
+.fotos img {
+    border-radius: 8px;        /* Bordas arredondadas nas fotos (opcional) */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* Sombra nas fotos (opcional) */
+}
